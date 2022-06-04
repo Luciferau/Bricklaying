@@ -1,0 +1,7 @@
+﻿  DXBall.c
+E:\qbg\_D\all-project\4 游戏类\1初级小游戏\打砖块\DXBall\DXBall.c(16,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\qbg\_D\all-project\4 游戏类\1初级小游戏\打砖块\DXBall\DXBall.c(35,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\qbg\_D\all-project\4 游戏类\1初级小游戏\打砖块\DXBall\DXBall.c(40,6): error C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+E:\qbg\_D\all-project\4 游戏类\1初级小游戏\打砖块\DXBall\DXBall.c(41,12): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+E:\qbg\_D\all-project\4 游戏类\1初级小游戏\打砖块\DXBall\DXBall.c(127,2): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\qbg\_D\all-project\4 游戏类\1初级小游戏\打砖块\DXBall\DXBall.c(131,9): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
